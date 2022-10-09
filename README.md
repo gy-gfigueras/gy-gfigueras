@@ -150,14 +150,10 @@ If you are interested in knowing more, here below I leave more information. <br>
 <div align="left">
 
 - 🔭 I’m currently working on <a href="https://github.com/GY-CODING">FALL OF THE GODS</a>
-
 - 🌱 I’m currently learning **java and databases as a programming student**
-
 - 👨‍💻 All of my projects are available <a href="https://github.com/GFiigueraas?tab=repositories">here</a>
-
 - 💬 Ask me about **CSS,HTML & Computer Hardware**
-
 - 📫 How to reach me <a href="mailto:gfigueras05@gmail.com">gfigueras05@gmail.com</a>
-- 👨‍🎓Student Account <a href="https://github.com/GFiigueraas">GFiigueraas</a>
+- 👨‍🎓 Main Account <a href="https://github.com/GFiigueraas">GFiigueraas</a>
 <hr>
 </div>
