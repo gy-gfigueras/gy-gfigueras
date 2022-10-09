@@ -124,7 +124,7 @@ If you are interested in knowing more, here below I leave more information. <br>
 <p>Visual studio code is the code editor I use mainly</p>
 <hr>
 </div>
-- 🔭 I’m currently working on [[Fall-Of-The-Gods]**(https://github.com/GY-CODING/Fall-of-the-Gods)**
+- 🔭 I’m currently working on <a href="https://github.com/GY-CODING/Fall-of-the-Gods">**FALL OF THE GODS**</a>
 
 - 🌱 I’m currently learning **java and databases as a programming student**
 
