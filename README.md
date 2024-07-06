@@ -139,10 +139,10 @@ If you are interested in knowing more, here below I leave more information. <br>
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfiigueraas&label=Profile%20views&color=0e75b6&style=flat" alt="gfiigueraas" /> </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfigueras03&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gy-gfigueras&show_icons=true)
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFigueras03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gy-gfigueras&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </fieldset>
 </details>
