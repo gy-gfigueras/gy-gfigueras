@@ -140,10 +140,10 @@ If you are interested in knowing more, here below I leave more information. <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfiigueraas&label=Profile%20views&color=0e75b6&style=flat" alt="gfiigueraas" /> </p>
 
  ![GitHubStats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=gy-toxyc&include_orgs=true&theme=dark)
+ 
 ![GitHubLanguages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=gy-toxyc&include_orgs=true&theme=dark)
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gy-gfigueras&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </fieldset>
 </details>
