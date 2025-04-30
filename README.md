@@ -47,8 +47,8 @@ Me considero una persona resolutiva, con ganas de aprender y mejorar cada día. 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gy-toxyc&show_icons=true&theme=dark" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gy-toxyc&layout=compact&theme=dark" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gy-gfigueras&show_icons=true&theme=dark" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gy-gfigueras&layout=compact&theme=dark" alt="Lenguajes más usados"/>
 </div>
 
 ## 📫 Contacto
