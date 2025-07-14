@@ -53,7 +53,7 @@ Me considero una persona resolutiva, con ganas de aprender y mejorar cada día. 
 
 ## 📫 Contacto
 
-- 📧 Email: gfigueras05@gmail.com
+- 📧 Email: gfiigueras05@gmail.com
 - 💼 LinkedIn: [Guillermo Figueras](https://www.linkedin.com/in/guillermo-figueras-b2997a240/)
 
 ## 🌱 Actualmente
