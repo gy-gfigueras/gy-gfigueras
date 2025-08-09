@@ -48,7 +48,7 @@ Me considero una persona resolutiva, con ganas de aprender y mejorar cada día. 
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=gy-gfigueras&include_orgs=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gy-gfigueras&layout=compact&theme=dark" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=gy-gfigueras&include_orgs=true&theme=tokyonight" alt="Lenguajes más usados"/>
 </div>
 
 ## 📫 Contacto
